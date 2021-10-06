@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meftunca&theme=dark&show_icons=true)](https://github.com/meftunca/github-readme-stats)
 
 
-
-
+[![muhammed burak şentürk's Dev Card](https://api.daily.dev/devcards/0e1a3349a85a4cd0a35a73f315885bbf.png?r=e7e)](https://app.daily.dev/devloops)
 
