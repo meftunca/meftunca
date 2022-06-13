@@ -29,6 +29,5 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meftunca&layout=compact&theme=dark&show_icons=true)](https://github.com/meftunca/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meftunca&theme=dark&show_icons=true)](https://github.com/meftunca/github-readme-stats)
 
 <a href="https://app.daily.dev/devloops"><img src="https://api.daily.dev/devcards/0e1a3349a85a4cd0a35a73f315885bbf.png?r=e7e" width="400" alt="muhammed burak şentürk's Dev Card"/></a>
